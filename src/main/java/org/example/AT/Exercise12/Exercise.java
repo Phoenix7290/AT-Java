@@ -31,7 +31,7 @@ public class Exercise {
             System.out.println(message);
         }
 
-        System.out.println("\nObrigado por utilizarem o sistema!");
+        System.out.println("\nObrigado por utilizarem o sistema! Boa sorte para vocês! \uD83D\uDE80");
 
         scanner.close();
     }
