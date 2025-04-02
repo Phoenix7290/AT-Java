@@ -26,8 +26,8 @@ public class Exercise {
         double monthlyInstallment = totalAmount / installments;
 
         System.out.println("Nome: " + name);
-        System.out.println("Valor total a ser pago: R$ " + totalAmount);
-        System.out.println("Valor da parcela mensal: R$ " + monthlyInstallment);
+        System.out.printf("Valor total a ser pago: R$ %.2f%n", totalAmount);
+        System.out.printf("Valor da parcela mensal: R$ %.2f%n", monthlyInstallment);
 
         scanner.close();
 

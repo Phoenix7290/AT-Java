@@ -1,0 +1,15 @@
+Compra 1:
+uva
+10
+2.89
+
+Compra 2:
+banana
+3
+4.73
+
+Compra 3:
+goiaba
+5
+2.89
+
